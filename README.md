@@ -19,7 +19,7 @@ This project predicts health insurance premiums based on user data such as age, 
 ## 🚀 Highlights
 
 - Cleaned and explored data using visualizations  
-- Trained models: Linear Regression, Random Forest, Gradient Boosting  
+- Trained models: Decision Tree, Gradient Boosting, Cat Boost 
 - Evaluated using R² Score, MAE, and MSE  
 - Selected the best-performing model for prediction
 
